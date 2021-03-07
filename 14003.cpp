@@ -15,7 +15,6 @@ int32_t main() {
 	result.push_back(-1000000001);
 	int n;
 	cin >> n;
-
     vector<pii> trail;
 	
 	while(n--) {
